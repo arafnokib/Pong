@@ -21,8 +21,8 @@ class Player {
       ballRefY = data.val();
     })
 
-    //ball.x = ballRefX
-    //ball.y = ballRefY
+    ball.x = ballRefX
+    ball.y = ballRefY
 
     console.log(ball.x)
     console.log(ball.y)
